@@ -24,4 +24,7 @@ To build an on-chain verifiable system of educational progress where:
 > 📍 SPXXXXXX...  
 (*Add your deployed contract address here after deploying on testnet or mainnet)
 
----
+STB02BFCNTKC6HE622P2VC6VKVNEG2QQPEQZ66SZ.roadmap
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f1a4308b-c382-4d6f-b12a-ee7e55bf318c" />
+
