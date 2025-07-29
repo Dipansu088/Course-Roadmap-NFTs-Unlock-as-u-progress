@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: roadmap
+            expected-sender: STB02BFCNTKC6HE622P2VC6VKVNEG2QQPEQZ66SZ
+            cost: 11140
+            path: "contracts\\roadmap.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.1"
